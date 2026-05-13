@@ -8,7 +8,6 @@ import {
   Home,
   NotFound,
   Product,
-  ProductsDetails,
   Profile,
 } from "../Pages";
 import PrivateLayout from "../Layout/Private";
@@ -49,10 +48,7 @@ const router = createBrowserRouter([
         path: "products/:categoryId/:categoryName",
         element: <Product />,
       },
-      {
-        path: "product-details/:id/:name",
-        element: <ProductsDetails />,
-      },
+      
       {
         path: "about",
         element: <About />,
