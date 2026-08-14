@@ -14,9 +14,6 @@ This is a front-end e-commerce application developed using React, Vite, and Redu
     *   Browse a wide range of products with details.
     *   View products by category.
     *   Featured product sections (e.g., discounted products, main sliders).
-*   Shopping Cart:
-    *   Add products to the cart.
-    *   View and manage cart items.
 *   State Management:
     *   Utilizes Redux Toolkit for efficient and predictable state management.
 *   API Integration:
