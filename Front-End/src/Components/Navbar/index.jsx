@@ -14,7 +14,7 @@ export default function Navbar() {
         <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:gap-10">
           <Link to="/" className="w-fit">
             <h1 className="bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-2xl font-extrabold tracking-wide text-transparent sm:text-3xl">
-              E-commerce
+              Shop Store
             </h1>
           </Link>
 
